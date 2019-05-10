@@ -16,6 +16,7 @@ On running project you will get screen to evaluate part 1 or part 2
 Part one:It contains the environment for handling randomly generating graphs.
 
 1. It gives you option to select probability.
+
 2. Do remmember to put probability between 0 to 1.
 
 Part two:Contains the predefined graphs.
