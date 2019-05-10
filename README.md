@@ -1,7 +1,6 @@
 # K-Server-Problem
 # OS Used:Ubuntu
 Instruction to run the project:
-
 1) Open terminal
 
 2)Locate project
