@@ -1,6 +1,7 @@
 # K-Server-Problem
 # OS Used:Ubuntu
-Instruction to run the project:
+# Instruction to run the project
+
 1) Open terminal
 
 2)Locate project
@@ -9,7 +10,7 @@ Instruction to run the project:
 
 4)To run project type command:./trees
 
-Some important information.
+# Some important information.
 1)On running project you will get screen to evaluate part or part 2
 
 Part one:It contains the environment for handling randomly generating graphs.
