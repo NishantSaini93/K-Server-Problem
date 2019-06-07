@@ -1,7 +1,9 @@
-//This is header file for PartTwo.cpp
 #ifndef _PartTwo_CPP_INCLUDED
 #define _PartTwo_CPP_INCLUDED
 #include<iostream>
-using namespace std;
+/**
+*This function load predifined graph for request processing
+*@return 0 after executin all instrucions
+*/
 int performPartTwo();
 #endif

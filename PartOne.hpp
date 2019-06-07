@@ -8,5 +8,9 @@
 #include<set>
 #include<queue>
 using namespace std;
+/**
+*This is function generate graph randomly on the basis of probability.
+*@return 0 after executing all instructions
+*/
 int performPartOne();
 #endif

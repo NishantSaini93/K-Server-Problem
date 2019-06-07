@@ -1,12 +1,12 @@
 #include "PartTwo.hpp"
 #include "PartOne.hpp"
 #include <iostream>
-using namespace std;
-
-
-//This function contain logic for displaying first screen
+/**
+*This function contain logic for displaying first screen
+*/
 int main() {
-	bool flagForExit=true;
+	_CrtSetDbgFlag(_CRTDBG_ALLOC_MEM_DF | _CRTDBG_LEAK_CHECK_DF);
+	bool flagForExit{ true };
 	while(flagForExit){
 		char choosedOption;
 		cout<<endl;
@@ -14,7 +14,6 @@ int main() {
 		cout<<"Evaluate part 2"<<endl;
 		cout<<"Enter 1 for evaluating part one and 2 to evalute part two or press 3 for exit"<<endl;
 		cin>>choosedOption;
-		//switch for selecting part to evaluate
 		switch(choosedOption){
 			case '1':			
             performPartOne();
@@ -27,10 +26,7 @@ int main() {
 			flagForExit=0;
 			break;
 		}
-
-
 	}
-
 }
 
 
